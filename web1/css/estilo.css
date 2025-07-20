@@ -1,0 +1,35 @@
+body {background-color: rgb(249, 251, 252);
+color: rgb(70, 43, 226);
+}
+
+h1,h2{
+     color: brown;
+}
+
+
+
+p a {
+    font-size: 20px;
+}
+
+.rojo{     /*el enlase (Ir a tigi Sport)c on la clase rojo es la que cambiara de color y tamaño*/
+    color: #eb0a0a; 
+    font-size: 20px; 
+    
+}
+
+div {
+
+    background-color: rgb(15, 15, 15);
+    color: azure;
+    height: 150px;
+    width: 40%;
+    margin: 20px;
+    padding: 5px;
+    border: 3px solid crimson;
+    display: inline-block;
+}
+
+
+
+/* comentar */
